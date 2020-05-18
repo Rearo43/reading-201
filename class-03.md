@@ -16,4 +16,4 @@
 ### ch4 JS
 - if and then else if
 - for and while loops can be used with arguments inside of them
-- argument ===, ==, !=, !==, <, <=, =>, > are true or false
+- argument ===, ==, !=, !==, <, > are true or false
