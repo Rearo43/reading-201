@@ -23,8 +23,11 @@
 
 ### Vocab.
 - ecosystem
+  > software projects developed and co-evolve
 - Node.js
+  > Writing JS for backend (have open source code to use)
 - V8 Engine
+  > C++ writen open scource engine used in Google crome
 - module
   > Type of package that can be published to npm.
 - package
@@ -32,6 +35,11 @@
 - node package manager (npm)
   > Enables sharing of code, check to see updates (packages/ modules) package.json
 - server
+  > Pushes info to front end 
 - environment
-- interpreter
-- compiler
+  > Place to write code 
+- interpreter & compiler
+  > Search Results
+Featured snippet from the web
+Interpreter translates just one statement of the program at a time into machine code. **Compiler scans the entire program and translates the whole** of it into machine code at once. An **interpreter takes very less time to analyze the source code.**
+    > [Definition from this site](https://www.businessinsider.in/difference-between-compiler-and-interpreter/articleshow/69523408.cms)
