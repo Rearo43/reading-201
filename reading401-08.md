@@ -54,8 +54,9 @@
       res.send('this is a sample!'); 
     });
     
-    or -------- Both do the same thing the one below allows for better orginization and allowing the 
-    routes to all be at the top so devs can easily see what the file holds.
+    or --------
+    Both do the same thing the one below allows for better organization 
+    and allowing the routes to all be at the top so devs can easily see what the file holds.
     
     app.get('/sample', sampleF);
     
