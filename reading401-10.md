@@ -15,7 +15,7 @@
   -----------------------------------------------------------------
 
 ## QUEUES
-### Stack Flow
+### Queue Flow
 #### `FIFO` - `F`irst `I`n `F`irst `O`ut
 #### `LILO` - `L`ast `I`n `L`ast `O`ut
 ### Terminology
