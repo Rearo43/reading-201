@@ -1,12 +1,19 @@
 # Bearer Authorization
 
 Write the following steps in the correct order:
+
   3. Register your application to get a client_id and client_secret
+  
   5. Ask the client if they want to sign in via a third party
+  
   2. Redirect to a third party authentication endpoint
+  
   1. Receive access token
+  
   4. Make a request to a third-party API endpoint
+  
   6. Receive authorization code
+  
   7. Make a request to the access token endpoint
 #### What can you do with an authorization code?
 #### What can you do with an access token?
