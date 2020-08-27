@@ -1,14 +1,14 @@
 # Bearer Authorization
 
 Write the following steps in the correct order:
-Receive access token
-Redirect to a third party authentication endpoint
-Register your application to get a client_id and client_secret
-Make a request to a third-party API endpoint
-Ask the client if they want to sign in via a third party
-Receive authorization code
-Make a request to the access token endpoint
-What can you do with an authorization code?
+3. Register your application to get a client_id and client_secret
+5. Ask the client if they want to sign in via a third party
+2. Redirect to a third party authentication endpoint
+1. Receive access token
+4. Make a request to a third-party API endpoint
+6. Receive authorization code
+7. Make a request to the access token endpoint
+#### What can you do with an authorization code?
 #### What can you do with an access token?
   > You can make API requests, and use them to keep track of how many times or who it using your site/ code.
 #### What’s a benefit of using OAuth instead of your own basic authentication?
