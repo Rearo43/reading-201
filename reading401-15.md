@@ -17,9 +17,9 @@
   - Pre-order: A, B, D, E, C, F
   - In-order: D, B, E, A, F, C
   - Post-order: D, E, B, F, C, A
-  
-             A
-           /   \
-          B     C
-         / \   /
-        D   E F
+
+                        A - Root
+                      /   \
+        Left Child - B     C - Right Child
+                    / \   /
+                 [ D   E F ] - Leaves
