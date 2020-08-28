@@ -17,13 +17,9 @@
   - Pre-order: A, B, D, E, C, F
   - In-order: D, B, E, A, F, C
   - Post-order: D, E, B, F, C, A
-     
-          C
-         / \
-            F
-        A   
-            E
-         \ /
-          B
-           \
-            D
+  
+             A
+           /   \
+          B     C
+         / \   /
+        D   E F
